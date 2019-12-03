@@ -1,0 +1,6 @@
+C:\Users\thoma\Documents\CSU East Bay\2nd Year\Fall 2019\CS 663\Projects\Project 3\Video Dataset (Full)\MoveLeft\move_left_3016.npy
+C:\Users\thoma\Documents\CSU East Bay\2nd Year\Fall 2019\CS 663\Projects\Project 3\Video Dataset (Full)\MoveLeft\move_left_1041.npy
+C:\Users\thoma\Documents\CSU East Bay\2nd Year\Fall 2019\CS 663\Projects\Project 3\Video Dataset (Full)\MoveRight\move_right_3007.npy
+C:\Users\thoma\Documents\CSU East Bay\2nd Year\Fall 2019\CS 663\Projects\Project 3\Video Dataset (Full)\MoveRight\move_right_1066.npy
+C:\Users\thoma\Documents\CSU East Bay\2nd Year\Fall 2019\CS 663\Projects\Project 3\Video Dataset (Full)\MoveStraight\move_straight_1094.npy
+C:\Users\thoma\Documents\CSU East Bay\2nd Year\Fall 2019\CS 663\Projects\Project 3\Video Dataset (Full)\MoveStraight\move_straight_1088.npy
